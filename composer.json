@@ -45,5 +45,5 @@
     },
     "extra": {
         "contao-manager-plugin": "maniax-at-work\\ContaoPortfolioBundle\\ContaoManager\\Plugin"
-    },
+    }
 }
