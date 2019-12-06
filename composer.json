@@ -44,6 +44,6 @@
         "symfony/phpunit-bridge": "^3.2"
     },
     "extra": {
-        "contao-manager-plugin": "Acme\\ContaoHelloWorldBundle\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "maniax-at-work\\ContaoPortfolioBundle\\ContaoManager\\Plugin"
     },
 }
